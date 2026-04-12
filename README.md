@@ -10,7 +10,7 @@ I also designed AnyPost's deep research engine, inspired by ByteDance-style rese
 
 My technical focus includes RAG, multimodal retrieval, embeddings, reranking, synthetic data, LLM evaluation systems, anti-hallucination workflows, agentic systems, text-to-SQL, fine-tuning, and production monitoring. I care about building AI systems that are rigorous, useful, and commercially grounded.
 
-I'm also an NSF-funded PhD in Computer Science with **16 publications** and **200+ citations**, with research spanning **LLMs, AI systems, cybersecurity, and applied machine learning**.
+I completed an NSF-funded Ph.D. in Computer Science at Cleveland State University and have **16 publications** and **200+ citations**, with research spanning **LLMs, AI systems, cybersecurity, and applied machine learning**.
 
 ## Selected Work
 
