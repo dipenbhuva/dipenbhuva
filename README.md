@@ -1,10 +1,10 @@
 # Dipen Bhuva
 
-**Co-founder & CRO at newline | Joined during decline and helped drive 10x growth by building newline's first 3 AI products: AI Accelerator, [anypost.ai](https://anypost.ai), and [community.newline.co](https://community.newline.co)**
+**Co-founder & CRO at newline | Joined during decline and helped drive 10x growth by building newline's first 3 AI products: [AI Accelerator](https://www.notion.so/newline/AI-accelerator-curriculum-1303f12eb0228088a11dc779897d15bd), [anypost.ai](https://anypost.ai), and [community.newline.co](https://community.newline.co)**
 
 I work at the intersection of company building, AI research, product strategy, engineering, and execution.
 
-At newline, I joined during a period of decline and helped rebuild momentum by taking the company from 0 to 3 AI products in one year. My work spans product creation, technical direction, curriculum design, systems building, and operational execution, with a focus on turning advanced AI capabilities into products that perform in production and create real business value.
+At newline, I joined during a period of decline and helped rebuild momentum by taking the company from 0 to 3 AI products in one year. My work spans product creation, technical direction, curriculum design, systems building, and operational execution, with a focus on turning advanced AI capabilities into products that perform in production and create real business value. That includes building curriculum and learning systems around [AI Accelerator](https://www.notion.so/newline/AI-accelerator-curriculum-1303f12eb0228088a11dc779897d15bd) and [AI Engineer Bootcamp 2](https://www.notion.so/newline/AI-Engineer-Bootcamp-2-Website-Course-Structure-Plan-2f03f12eb0228047af3fd0e6e0b87403).
 
 I also designed AnyPost's deep research engine, inspired by ByteDance-style research workflows and adapted specifically for AnyPost's content, SEO, and growth use cases.
 
@@ -15,7 +15,8 @@ I completed an NSF-funded Ph.D. in Computer Science at Cleveland State Universit
 ## Selected Work
 
 - **newline**: Co-founded and scaled the foundation of newline's AI product portfolio.
-- **AI Accelerator**: Built and scaled newline's initial AI product and curriculum engine.
+- **[AI Accelerator](https://www.notion.so/newline/AI-accelerator-curriculum-1303f12eb0228088a11dc779897d15bd)**: Built and scaled newline's initial AI product and curriculum engine.
+- **[AI Engineer Bootcamp 2](https://www.notion.so/newline/AI-Engineer-Bootcamp-2-Website-Course-Structure-Plan-2f03f12eb0228047af3fd0e6e0b87403)**: Helped design advanced curriculum covering RAG, evals, fine-tuning, reinforcement learning, and production AI systems.
 - **[anypost.ai](https://anypost.ai)**: Created product systems for content, SEO, and growth workflows.
 - **[community.newline.co](https://community.newline.co)**: Helped build an AI-native community product around engagement, learning, and product-led growth.
 - **Deep research engine for AnyPost**: Designed a ByteDance-inspired research workflow tailored to product-specific content generation, source synthesis, and SEO execution.
