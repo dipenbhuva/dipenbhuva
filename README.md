@@ -17,9 +17,10 @@ I completed an NSF-funded Ph.D. in Computer Science at Cleveland State Universit
 - **newline**: Co-founded and scaled the foundation of newline's AI product portfolio.
 - **[AI Accelerator](https://newline.notion.site/AI-accelerator-curriculum-1303f12eb0228088a11dc779897d15bd?pvs=74)**: Built and scaled newline's initial AI product and curriculum engine.
 - **[AI Engineer Bootcamp 2](https://newline.notion.site/AI-Engineer-Bootcamp-2-Website-Course-Structure-Plan-2f03f12eb0228047af3fd0e6e0b87403?pvs=74)**: Helped design advanced curriculum covering RAG, evals, fine-tuning, reinforcement learning, and production AI systems.
-- **[anypost.ai](https://anypost.ai)**: Created product systems for content, SEO, and growth workflows.
+- **[anypost.ai](https://anypost.ai)**: Created product systems for content, SEO, and growth workflows. - **Deep research engine for AnyPost**: Designed from ByteDance-inspired research workflow tailored to product-specific content generation, source synthesis, and SEO execution. AI AVATAR cloning for Social Media Growth. Backlink Automation using AI. Think of it as a cursor for organic growth. AI Avatar Generation for Ads on different platforms.
 - **[community.newline.co](https://community.newline.co)**: Helped build an AI-native community product around engagement, learning, and product-led growth.
-- **Deep research engine for AnyPost**: Designed a ByteDance-inspired research workflow tailored to product-specific content generation, source synthesis, and SEO execution.
+- **Sales and Marketing Intelligence Dashboard**: Built an internal analytics platform that triangulates 10 external data sources (GoHighLevel, Calendly, Stripe, Meta Ads, Fathom, Zoom, Sendy, Newline Community, Google Sheets) into a unified sales operations view for the AI Accelerator. Real-time revenue tracking, funnel attribution (VSL vs Webinar) with ROAS and cost-per-sale, show/no-show triangulation across multiple sources, pipeline forecasting using close rates, AI-powered call intelligence with NEPQ scoring, self-serve Stripe payment link generation, and community-verified close detection with fuzzy matching.
+
 
 ## Research
 
