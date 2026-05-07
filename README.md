@@ -6,7 +6,7 @@ I work at the intersection of company building, AI research, product strategy, e
 
 At newline, I joined during a period of decline and helped rebuild momentum by taking the company from 0 to 3 AI products in one year. My work spans product creation, technical direction, curriculum design, systems building, and operational execution, with a focus on turning advanced AI capabilities into products that perform in production and create real business value. That includes building curriculum and learning systems around [AI Accelerator](https://newline.notion.site/AI-accelerator-curriculum-1303f12eb0228088a11dc779897d15bd?pvs=74) and [AI Engineer Bootcamp 2](https://newline.notion.site/AI-Engineer-Bootcamp-2-Website-Course-Structure-Plan-2f03f12eb0228047af3fd0e6e0b87403?pvs=74).
 
-I also designed AnyPost's deep research engine, inspired by ByteDance-style research workflows and adapted specifically for AnyPost's content, SEO, and growth use cases.
+I also designed AnyPost's deep research engine, inspired from ByteDance-style research workflows and adapted specifically for AnyPost's content, SEO, and growth use cases.
 
 My technical focus includes RAG, multimodal retrieval, embeddings, reranking, synthetic data, LLM evaluation systems, anti-hallucination workflows, agentic systems, text-to-SQL, fine-tuning, and production monitoring. I care about building AI systems that are rigorous, useful, and commercially grounded.
 
