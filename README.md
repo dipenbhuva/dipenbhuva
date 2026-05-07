@@ -27,7 +27,7 @@ I completed an NSF-funded Ph.D. in Computer Science at Cleveland State Universit
 - Ph.D. in Computer Science, Cleveland State University
 - **16 publications** and **200+ citations**
 - Research spanning LLMs, AI systems, cybersecurity, and intelligent systems
-- Research collaborations connected to **NASA Glenn**, **Cleveland Clinic**, and the **U.S. Department of Energy**
+- Research collaborations connected to **NASA Glenn**, **NSF-SaTC**, **Cleveland Clinic**, and the **U.S. Department of Energy**
 
 ## Links
 
