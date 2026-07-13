@@ -8,7 +8,7 @@ At newline, I joined during a period of decline and helped rebuild momentum by t
 
 I also designed AnyPost's deep research engine, inspired from ByteDance-style research workflows and adapted specifically for AnyPost's content, SEO, and growth use cases.
 
-My technical focus includes RAG, multimodal retrieval, embeddings, reranking, synthetic data, LLM evaluation systems, anti-hallucination workflows, agentic systems, text-to-SQL, fine-tuning, and production monitoring. I care about building AI systems that are rigorous, useful, and commercially grounded.
+My technical focus includes RAG, multimodal retrieval, embeddings, reranking, synthetic data, LLM evaluation systems, anti-hallucination workflows, agentic systems, text-to-SQL, fine-tuning, and production monitoring. I care about building AI systems that are rigorous, useful, and commercially grounded that would actually make large PROFITS.
 
 I completed an NSF-funded Ph.D. in Computer Science at Cleveland State University and have **16 publications** and **200+ citations**, with research spanning **LLMs, AI systems, cybersecurity, and applied machine learning**.
 
