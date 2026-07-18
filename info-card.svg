@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="340" viewBox="0 0 490 340" role="img" aria-label="Neofetch-style profile card for Dipen Bhuva">
+  <defs>
+    <style>
+      .frame { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .bar { fill: #161b22; }
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .prompt { fill: #7ee787; font-size: 13px; font-weight: 700; }
+      .muted { fill: #8b949e; font-size: 12px; }
+      .key { fill: #58a6ff; font-size: 13px; font-weight: 700; }
+      .sep { fill: #8b949e; font-size: 13px; }
+      .value { fill: #c9d1d9; font-size: 13px; }
+      .line { opacity: 0; transform: translateY(8px); animation: line-in 0.42s ease-out forwards; }
+      .chip { fill: #1f6feb; opacity: 0.2; }
+      @keyframes line-in {
+        to { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+  <rect class="frame" x="0.5" y="0.5" width="489" height="339" rx="8" />
+  <rect class="bar" x="1" y="1" width="488" height="38" rx="8" />
+  <circle cx="20" cy="20" r="4.5" fill="#ff5f56" />
+  <circle cx="36" cy="20" r="4.5" fill="#ffbd2e" />
+  <circle cx="52" cy="20" r="4.5" fill="#27c93f" />
+  <text class="prompt" x="30" y="55">dipen@github</text>
+  <text class="muted" x="132" y="55">~ $ neofetch</text>
+  <rect class="chip" x="326" y="45" width="128" height="18" rx="9" />
+  <text class="muted" x="338" y="58">applied-ai.dev</text>
+  <g class="line" style="animation-delay: 0.00s"><text class="key" x="34" y="70">Name</text><text class="sep" x="126" y="70">:</text><text class="value" x="148" y="70">Dipen Bhuva</text></g><g class="line" style="animation-delay: 0.09s"><text class="key" x="34" y="94">Role</text><text class="sep" x="126" y="94">:</text><text class="value" x="148" y="94">Co-founder &amp; CRO at newline</text></g><g class="line" style="animation-delay: 0.18s"><text class="key" x="34" y="118">Focus</text><text class="sep" x="126" y="118">:</text><text class="value" x="148" y="118">AI/ML, LLMs, RAG, cybersecurity</text></g><g class="line" style="animation-delay: 0.27s"><text class="key" x="34" y="142">Stack</text><text class="sep" x="126" y="142">:</text><text class="value" x="148" y="142">Python, TypeScript, Rust, SQL, vector DBs</text></g><g class="line" style="animation-delay: 0.36s"><text class="key" x="34" y="166">Builds</text><text class="sep" x="126" y="166">:</text><text class="value" x="148" y="166">AI products, evals, agents, dashboards</text></g><g class="line" style="animation-delay: 0.45s"><text class="key" x="34" y="190">Research</text><text class="sep" x="126" y="190">:</text><text class="value" x="148" y="190">Ph.D. CS | 16 publications | 200+ citations</text></g><g class="line" style="animation-delay: 0.54s"><text class="key" x="34" y="214">Now</text><text class="sep" x="126" y="214">:</text><text class="value" x="148" y="214">Research-to-production AI systems</text></g><g class="line" style="animation-delay: 0.63s"><text class="key" x="34" y="238">Location</text><text class="sep" x="126" y="238">:</text><text class="value" x="148" y="238">Miami</text></g><g class="line" style="animation-delay: 0.72s"><text class="key" x="34" y="262">Web</text><text class="sep" x="126" y="262">:</text><text class="value" x="148" y="262">bhuva-ai-portfolio.lovable.app</text></g>
+</svg>

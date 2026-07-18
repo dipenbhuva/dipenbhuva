@@ -1,3 +1,22 @@
+<div align="center">
+
+<h3><code>dipen@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
+
+<br><br>
+
+<h3><code>dipen@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./dipen-ascii.svg" width="370" alt="Animated ASCII portrait of Dipen Bhuva" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch-style profile info card" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
 # Dipen Bhuva
 
 **Co-founder & CRO at newline | Joined during decline and helped drive 10x growth by building newline's first 3 AI products: [AI Accelerator](https://newline.notion.site/AI-accelerator-curriculum-1303f12eb0228088a11dc779897d15bd?pvs=74), [anypost.ai](https://anypost.ai), and [community.newline.co](https://community.newline.co)**
