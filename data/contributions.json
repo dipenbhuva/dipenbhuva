@@ -8,41 +8,6 @@
   "days": [
     {
       "count": 0,
-      "date": "2025-08-31",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-09-01",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-09-02",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-09-03",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-09-04",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-09-05",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-09-06",
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-09-07",
       "level": 0
     },
@@ -1852,20 +1817,24 @@
       "level": 1
     },
     {
-      "count": 6,
+      "count": 7,
       "date": "2026-09-04",
       "level": 1
     },
     {
-      "count": 0,
+      "count": 5,
       "date": "2026-09-05",
+      "level": 1
+    },
+    {
+      "count": 0,
+      "date": "2026-09-06",
       "level": 0
     }
   ],
-  "generated_at": "2026-09-05T10:39:00Z",
-  "longest_streak": 61,
+  "generated_at": "2026-09-06T11:01:01Z",
+  "longest_streak": 62,
   "monthly_totals": {
-    "2025-08": 0,
     "2025-09": 0,
     "2025-10": 0,
     "2025-11": 0,
@@ -1878,8 +1847,8 @@
     "2026-06": 347,
     "2026-07": 464,
     "2026-08": 210,
-    "2026-09": 40
+    "2026-09": 46
   },
-  "total_last_year": 1678,
+  "total_last_year": 1684,
   "username": "dipenbhuva"
 }
